@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1626474584 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"roldan.h"
+	"fecha.h"
+	"alquileres.h"
+	"cliente.h"
+	"juego.h"
+
+1621466440 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\roldan.h
+
+1621030106 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\fecha.h
+
+1626474793 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\alquileres.h
+	"fecha.h"
+	"cliente.h"
+	"juego.h"
+
+1626477668 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\cliente.h
+	"localidad.h"
+
+1626474465 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\localidad.h
+
+1626446886 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\juego.h
+	"categoria.h"
+
+1621571617 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\categoria.h
+
+1621557492 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1626478497 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"roldan.h"
+
+1621030133 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\fecha.c
+	"fecha.h"
+
+1626477522 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"roldan.h"
+	"informes.h"
+
+1626477538 c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\informes.h
+
+1625950259 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"localidad.h"
+
+1626474465 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"localidad.h"
+
+1626477777 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"roldan.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1625948774 source:c:\users\usuario\desktop\utn\lab-prog1\parciales\roldan.sabrina.pplab1.1g\roldan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"roldan.h"
+
+1626478932 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"roldan.h"
+	"fecha.h"
+	"alquileres.h"
+	"cliente.h"
+	"juego.h"
+
+1621466440 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\roldan.h
+
+1621030106 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\fecha.h
+
+1626474793 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\alquileres.h
+	"fecha.h"
+	"cliente.h"
+	"juego.h"
+
+1626477668 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\cliente.h
+	"localidad.h"
+
+1626474465 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\localidad.h
+
+1626446886 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\juego.h
+	"categoria.h"
+
+1621571617 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\categoria.h
+
+1621557492 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1626478497 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"roldan.h"
+
+1621030133 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\fecha.c
+	"fecha.h"
+
+1626477522 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"roldan.h"
+	"informes.h"
+
+1626477538 c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\informes.h
+
+1625950259 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+	"localidad.h"
+
+1626474465 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"localidad.h"
+
+1626477777 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"roldan.h"
+	"categoria.h"
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1625948774 source:c:\users\usuario\desktop\repositorio\roldan.sabrina.rpplabi\roldan.sabrina.pplab1.1g\roldan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"roldan.h"
+
